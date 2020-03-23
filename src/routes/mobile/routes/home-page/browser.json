@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        {
+            "path": "../../../../../data/delhi.csv",
+            "type": "lasso-any-file",
+            "out_dir": "delhi"
+        }
+    ]
+}
